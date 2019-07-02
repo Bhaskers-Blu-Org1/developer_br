@@ -1,13 +1,14 @@
-## IBM Developer Feedback in Portuguese ##
+## IBM Developer - Feedback (em Português) ##
 
-Use this repository to ask questions or leave feedback about IBM Developer and its content, community, and various initiatives offered in Portuguese.
+Use este repositório para fazer perguntas ou deixar comentários sobre o IBM Developer e seu conteúdo, comunidade e as diversas iniciativas oferecidas em português.
 
-To ask a question or leave feedback, simply open an issue; a member of the IBM Developer team will respond.
+Para fazer uma pergunta ou deixar um comentário, basta abrir um “issue”; e um membro da equipe do Desenvolvedor IBM responderá brevemente.
 
-Note This repository is designed as a public forum for the exchange of information about IBM Developer and its related initiatives, activities, and content. Any comments you provide must be respectful of the audience and team members and adhere to GitHub's [community guidelines](https://help.github.com/en/articles/github-community-guidelines). 
+Nota: Este repositório foi projetado como um fórum público para a troca de informações sobre o IBM Developer e suas iniciativas, atividades e conteúdo relacionados. Quaisquer comentários que você fornecer devem ser respeitosos ao público e os membros da equipe, e seguir as [diretrizes da comunidade do GitHub](https://help.github.com/en/articles/github-community-guidelines) (em inglês).
 
-Any inappropriate content will be removed immediately and the user will be reported to GitHub for further action.
+Qualquer conteúdo impróprio será removido imediatamente, e o usuário será denunciado ao GitHub para que as ações adequadas sejam tomadas.
 
-[Open a new issue](https://github.com/IBM/developer_br/issues/new)
 
-[Review existing issues](https://github.com/IBM/developer_br/issues)
+[Abra um novo issue](https://github.com/IBM/developer_br/issues/new)
+
+[Revise os issues existentes](https://github.com/IBM/developer_br/issues)
